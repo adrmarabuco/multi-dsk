@@ -1,3 +1,5 @@
+# CORRELAÇÃO
+
 question:
 Qual a ação dentre as Magnificent 7 possui maior correlação de resultados com a NVIDIA? R1 + Search
 
@@ -91,6 +93,8 @@ Embora todas as "Magnificent Seven" tenham alguma relação com a NVIDIA, **Micr
 * **Análise mais profunda seria necessária:** Para confirmar essa hipótese com certeza, seria necessário realizar uma análise estatística mais aprofundada dos dados financeiros de ambas as empresas ao longo do tempo.
 
 No entanto, com base na compreensão do negócio e da dependência tecnológica, a **Microsoft (MSFT)** é a escolha mais provável como a ação das "Magnificent Seven" com a maior correlação de resultados com a NVIDIA.
+
+# ANÁLISE DE NEGÓCIOS
 
 question:
 Você é uma analista de investimento em ações experiente com amplo conhecimento de finanças corporativas e conhecimento do setor de tecnologia. Avalie os resultados financeiros e apresentação pela administração destacando sucessos e fracassos de desempenho, bem como suas perspectivas para 2025. Considere os arquivos em anexo:
@@ -207,6 +211,8 @@ Em resumo, a Microsoft apresentou um **segundo trimestre fiscal de 2025 excepcio
 
 Com base nesta análise, mantenho uma **perspectiva positiva sobre as ações da Microsoft**. A empresa está demonstrando execução excepcional em seus principais negócios, capitalizando a onda da IA e mantendo uma forte disciplina financeira.  Embora seja importante monitorar a evolução das margens da nuvem e o desempenho das áreas de negócios não relacionadas à IA, o momentum geral da Microsoft e suas perspectivas de crescimento a tornam um investimento atraente no setor de tecnologia.
 
+# ANÁLISE DE PREÇOS
+
 question:
 Você é um trader de ações experiente e sagaz com alta capacidade de identificar oportunidades e riscos de mercado e histórico de rentabilidade acima do índice da Nasdaq. Avalie o comportamento dos preços da ação com os dados a seguir: 
 
@@ -317,6 +323,8 @@ Esta é uma **análise preliminar baseada em dados limitados**.  Um trader real 
 
 **Em resumo, MSFT demonstra um comportamento de preço bullish robusto, mas a volatilidade recente exige cautela e gerenciamento de risco. As oportunidades de compra ainda existem, especialmente em correções, mas o acompanhamento constante e a análise mais aprofundada são fundamentais para um trading eficaz.**
 
+# GESTÃO DE PORTFOLIO
+
 question:
 Você é um gestor de portfolio experiente capaz de equilibrar risco e retorno da sua carteira de investimento. Qual a decisão de investimento: vender, manter ou compra? Qual percentual em uma carteira hipotética?
 
@@ -425,6 +433,8 @@ Ok, como gestor de portfólio experiente, avaliei cuidadosamente a ação MSFT c
 * **Stop Loss (Opcional, Depende da Estratégia):**  Para traders mais ativos ou para um portfólio com menor tolerância a risco, pode ser considerado o uso de **ordens de stop loss** para limitar as perdas potenciais em MSFT, caso a ação entre em uma correção mais profunda.  No entanto, para investidores de longo prazo, stops loss podem ser menos relevantes, dependendo da estratégia.
 
 **Em resumo, a decisão de investimento como gestor de portfólio seria COMPRAR MSFT, alocando 5% em uma carteira hipotética diversificada. Esta decisão é baseada na forte tendência de alta, nos fundamentos sólidos da empresa, e no potencial de crescimento em setores chave, equilibrando o potencial de retorno com um nível de risco gerenciável dentro de um portfólio diversificado.**
+
+# PREVISÃO DE RESULTADOS
 
 question:
 Considerando o histórico da conversa, e arquivo em anexo, qual a previsão dos resultados da Nvidia para 2024 e recomendação?
